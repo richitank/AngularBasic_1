@@ -1,5 +1,5 @@
 # Ng6
-
+A simple application made using TypeScript:Angular. It displays a list of Users and their details which has been generated with the help of an API. The application has simple and clean interface. I have used CSS preprocessors for this application.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
 ## Development server
